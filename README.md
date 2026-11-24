@@ -89,3 +89,12 @@ Berikut adalah kode sumber utama yang ditambahkan untuk mendukung fitur-fitur ba
 
 ### A. Struktur Database Baru (Tabel Relasi)
 [Database](ppdb-online-smk/upgrade-existing.sql)
+
+## B. Koneksi Database PDO & Handling Port (config/database.php)
+[Config](ppdb-online-smk/config/database.php)
+
+## C. Logika Pendaftaran (register.php)
+[Register](ppdb-online-smk/register.php)'
+
+## D. Logika Validasi File & Upload dan Live Priview Foto (dokumen.php)
+[Dokumen](ppdb-online-smk/dokumen.php)
